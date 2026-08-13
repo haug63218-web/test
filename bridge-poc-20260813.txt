@@ -1,4 +1,4 @@
-Bridge Hub POC marker UPDATED.
+Bridge Hub POC marker UPDATED AGAIN.
 write=ok
 update=ok
-time=2026-08-13T16:00Z
+full_access_test=2
